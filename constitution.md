@@ -94,7 +94,7 @@ Membership may be terminated if:
     2. At least three (3) Officers must be present for the meeting to take place.
     3. The Management Committee shall be accountable to the members.
     4. Meetings must be minuted and available to any interested party.
-    5. he Officers shall be given at least seven (7) days notice of a meeting unless it is deemed an emergency meeting.
+    5. The Officers shall be given at least seven (7) days notice of a meeting unless it is deemed an emergency meeting.
 
 10. GENERAL PUBLIC MEETINGS
 ---------------------------
