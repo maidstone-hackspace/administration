@@ -141,12 +141,19 @@ The group may be wound up at any time if agreed by the majority of members by vo
 14. ADOPTION OF THE CONSTITUTION
 --------------------------------
 This constitution was adopted by the members present at the meeting held on:
-    Date:			………………………………………..
-    Signed By chair		………………………………………..
-    Signed By secretary		………………………………………..
-    Signed By treasurer		………………………………………..
-    Signed by member		………………………………………..
-    Signed by member		………………………………………..
-    Signed by member		………………………………………..
+
+    Date:			        ____________________
+    
+    Signed By chair         ____________________
+    
+    Signed By secretary		____________________
+    
+    Signed By treasurer		____________________
+    
+    Signed by member		____________________
+    
+    Signed by member		____________________
+    
+    Signed by member		____________________
 
 
