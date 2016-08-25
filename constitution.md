@@ -60,6 +60,11 @@ Members will be expected to pay membership fees to Maidstone Hackspace. These fe
 
 4. Voting shall be by show of hands on a majority basis. If there is a tied vote The Chairperson shall have a second vote.
 
+5. In the event that a member of the Management Committee resigns from the Committee, or if their membership is terminated:
+  1. An EGM must be called with the specific intention of appointing a member to the vacated role.
+  2. Members may nominate themselves for the role either in writing to the Management Committee prior to the EGM, or in person at the EGM.
+  3. With the Member's permission, the Management Committee may appoint a Member as an "Interim" member of the Committee.  The Member will fulfil the role until the day of the EGM, at which point all "Interim" appointments will cease.
+
 6. SAFETY
 ---------
 1. The Maidstone Hackspace aims to provide the space and tools for members to work on their own projects. Each member must assess the safety of their own projects, the tools they are using, and the space they are using before starting. Each member is individually responsible for their own safety and their own actions whilst at hackerspace events. Maidstone Hackspace accepts no liability for any injury, death or loss caused by members’ actions, except where required by law.
@@ -137,7 +142,7 @@ Membership may be terminated if:
 
 5. There must be at least six (6) persons present, of which no fewer than three (3) will be Officers for a General Meeting to take place.
 
-6. Annual general meetings can be called more frequently if there is a requirement within the group. These will be referred to as Extraordinary General Meetings (EGM) and will have the same stipulations as an AGM.
+6. Annual general meetings can be called more frequently if there is a requirement within the group. These will be referred to as Extraordinary General Meetings (EGM) and, with the exception of clause 11.3, these will have the same stipulations as an AGM.
 
 12. ALTERATIONS OF THE CONSTITUTION
 -----------------------------------
