@@ -12,6 +12,7 @@ DEFINITIONS
 **The Space** refers to a physical area or buildings leased or purchased by Maidstone Hackspace.  
 **Trustee** refers to members elected to ensure the adequate running of Maidstone Hackspace.  
 **Member** refers to any person currently a member of Maidstone Hackspace.  
+**Junior Member** refers to any person currently a member of Maidstone Hackspace who is under 18 years old. 
 
 1. NAME
 -------
@@ -44,7 +45,7 @@ Our aim is to provide and maintain a shared community workspace with manufacturi
 
 Membership will be granted to any person(s) seeking to join Maidstone Hackspace, unless specific reasons exist why a person should be prevented from joining. These could include, but are not limited to, previous exclusion from similar groups or where the person's membership would not be in the best interests of the group. In these circumstances, a person's membership will be determined by a vote of the management committee.
 
-Members will be expected to pay membership fees to Maidstone Hackspace. These fees will be set or reviewed at the AGM or if an EGM is called. Any changes to the fees will be agreed by way of voting, as outlined in clause 5.4. In certain circumstances, reduced fees may be offered to members who are unable to pay the full fees, so as to not exclude any person(s). For a member to qualify for a reduced membership fee, they should contact the management committee who will review each request and vote on whether the member qualifies for the reduced fee. 
+Members will be expected to pay membership fees to Maidstone Hackspace. These fees will be set or reviewed at the AGM or if an EGM is called. Any changes to the fees will be agreed by way of voting, as outlined in clause 5.4. In certain circumstances, reduced fees may be offered to members who are unable to pay the full fees, so as to not exclude any person(s). For a member to qualify for a reduced membership fee, they should contact the management committee who will review each request and vote on whether the member qualifies for the reduced fee. All Junior Members will qualify for a 50% discount on their membership fee.
 
 5. MANAGEMENT
 -------------
@@ -73,6 +74,11 @@ Members will be expected to pay membership fees to Maidstone Hackspace. These fe
 2. Members put the safety of themselves and other members ahead of all other considerations. Members should not use any tools or equipment that they are not confident in using, or should seek assistance to do so. If an urgent safety risk is identified, members are required to cease all work until the risk is resolved.
     
 3. Members must respect the Hackspace by ensuring they clear up their projects when finished and that their work does not cause hazards to others whilst in progress. Members should also respect that some items provided are not to be hacked, and this will be made clear.
+
+4. All Junior Members and vulnerable adults must be accompanied and supervised by a member who will take full responsibility for the Junior Member/vulnerable adult.  The supervising member:
+  1. Must be 18 years or older, and legally responsible.
+  2. Must be either the Junior Member's/vulnerable adult's Guardian/Parent, or has been appointed by the Guardian/Parent to supervise the Junior Member/vulnerable adult.
+  3. Must not be supervising more Junior Members/vulnerable adults in the Space at any one time than the ratio agreed to by The Committee.
 
 7. TERMINATIONS
 ---------------
