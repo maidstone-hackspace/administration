@@ -60,6 +60,12 @@ Members will be expected to pay membership fees to Maidstone Hackspace. These fe
 
 4. Voting shall be by show of hands on a majority basis. If there is a tied vote The Chairperson shall have a second vote.
 
+5. In the event that The Chairperson, The Treasurer or The Secretary of the Management Committee resigns from the Committee, or if their membership is terminated:
+  1. Unless within 3 months of the next AGM, the remaining Officers of the Management Committee shall then decide on the date of an EGM to appoint a member to the vacated role.
+  2. Members may nominate themselves for the role, either in writing to the Management Committee prior to the AGM/EGM, or in person at the AGM/EGM.
+  3. With the Member's permission, the Management Committee may appoint a Member as an "Interim" Officer of the Committee.  The Member will fulfil the role until the day of the AGM/EGM, at which point all "Interim" appointments will cease.
+  4. Should any further Officers of the Committee resign "Interim" appointments must be attempted, if unsuccessful an EGM must be called to discuss the dissolution of the group (see Clause 13.)
+
 6. SAFETY
 ---------
 1. The Maidstone Hackspace aims to provide the space and tools for members to work on their own projects. Each member must assess the safety of their own projects, the tools they are using, and the space they are using before starting. Each member is individually responsible for their own safety and their own actions whilst at hackerspace events. Maidstone Hackspace accepts no liability for any injury, death or loss caused by members’ actions, except where required by law.
@@ -137,7 +143,7 @@ Membership may be terminated if:
 
 5. There must be at least six (6) persons present, of which no fewer than three (3) will be Officers for a General Meeting to take place.
 
-6. Annual general meetings can be called more frequently if there is a requirement within the group. These will be referred to as Extraordinary General Meetings (EGM) and will have the same stipulations as an AGM.
+6. Annual general meetings can be called more frequently if there is a requirement within the group. These will be referred to as Extraordinary General Meetings (EGM) and, with the exception of clause 11.3, these will have the same stipulations as an AGM.
 
 12. ALTERATIONS OF THE CONSTITUTION
 -----------------------------------
